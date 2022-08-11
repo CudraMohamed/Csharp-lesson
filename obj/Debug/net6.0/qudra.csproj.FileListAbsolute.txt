@@ -1,0 +1,15 @@
+/home/student/Documents/qudra/bin/Debug/net6.0/qudra
+/home/student/Documents/qudra/bin/Debug/net6.0/qudra.deps.json
+/home/student/Documents/qudra/bin/Debug/net6.0/qudra.runtimeconfig.json
+/home/student/Documents/qudra/bin/Debug/net6.0/qudra.dll
+/home/student/Documents/qudra/bin/Debug/net6.0/qudra.pdb
+/home/student/Documents/qudra/obj/Debug/net6.0/qudra.csproj.AssemblyReference.cache
+/home/student/Documents/qudra/obj/Debug/net6.0/qudra.GeneratedMSBuildEditorConfig.editorconfig
+/home/student/Documents/qudra/obj/Debug/net6.0/qudra.AssemblyInfoInputs.cache
+/home/student/Documents/qudra/obj/Debug/net6.0/qudra.AssemblyInfo.cs
+/home/student/Documents/qudra/obj/Debug/net6.0/qudra.csproj.CoreCompileInputs.cache
+/home/student/Documents/qudra/obj/Debug/net6.0/qudra.dll
+/home/student/Documents/qudra/obj/Debug/net6.0/refint/qudra.dll
+/home/student/Documents/qudra/obj/Debug/net6.0/qudra.pdb
+/home/student/Documents/qudra/obj/Debug/net6.0/qudra.genruntimeconfig.cache
+/home/student/Documents/qudra/obj/Debug/net6.0/ref/qudra.dll
